@@ -1,4 +1,4 @@
-I<p align="center" width="300">
+<p align="center" width="300">
   <img
     alt="Avatar"
     src="./src/assets/img/avatar.png"
