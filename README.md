@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a
-    href="https://instagram.com/soy.carlos.ramos"
+    href="https://instagram.com/soycmramos"
     target="blank"
     style="margin:5px;display:inline-block"
   >
@@ -26,7 +26,7 @@
     />
   </a>
   <a
-    href="https://twitter.com/soy_carlosramos"
+    href="https://twitter.com/soycmramos"
     target="blank"
     style="margin:5px;display:inline-block"
   >
@@ -37,24 +37,13 @@
     />
   </a>
   <a
-    href="https://wa.me/573103585799"
+    href="https://wa.me/573206415843"
     target="blank"
     style="margin:5px;display:inline-block"
   >
     <img
       align="center"
       src="./src/assets/img/icon-whatsapp-button.svg"
-      alt="carlosmarioramos"
-    />
-  </a>
-  <a
-    href="https://soycarlosramos.herokuapp.com"
-    target="blank"
-    style="margin:5px;display:inline-block"
-  >
-    <img
-      align="center"
-      src="./src/assets/img/icon-web-button.svg"
       alt="carlosmarioramos"
     />
   </a>
