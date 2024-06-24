@@ -1,106 +1,93 @@
 <p align="center" width="300">
   <img
     alt="Avatar"
-    src="./src/assets/img/avatar.png"
-    style="border-radius:50%;width:250px"
+    src="./src/assets/avatar.jpg"
+    style="border-radius:50%;width:300px"
   />
-   <h2 align="center">¡Hey 👋! Soy Carlos Ramos</h2>
+   <h2 align="center">¡Hey 👋! I'm Carlos Ramos</h2>
 </p>
 
 <p align="center">
   <strong>
-    Desarrollador JavaScript / Escribidor
+    SOA Developer | Writer (Or at least that's what I try)
   </strong>
-  <br /><small>O al menos eso intento</small>
 </p>
-<p align="center">
+<div align="center">
   <a
     href="https://instagram.com/soycmramos"
     target="blank"
-    style="margin:5px;display:inline-block"
+    style="margin:2.5px;display:inline-block"
   >
     <img
       align="center"
-      src="./src/assets/img/icon-instagram-button.svg"
-      alt="carlosmarioramos"
+      src="./src/assets/icon-instagram-button.svg"
+      alt="soycmramos"
     />
   </a>
   <a
     href="https://twitter.com/soycmramos"
     target="blank"
-    style="margin:5px;display:inline-block"
+    style="margin:2.5px;display:inline-block"
   >
     <img
       align="center"
-      src="./src/assets/img/icon-twitter-button.svg"
-      alt="carlosmarioramos"
+      src="./src/assets/icon-twitter-button.svg"
+      alt="soycmramos"
     />
   </a>
   <a
     href="https://wa.me/573206415843"
     target="blank"
-    style="margin:5px;display:inline-block"
+    style="margin:2.5px;display:inline-block"
   >
     <img
       align="center"
-      src="./src/assets/img/icon-whatsapp-button.svg"
-      alt="carlosmarioramos"
+      src="./src/assets/icon-whatsapp-button.svg"
+      alt="soycmramos"
     />
   </a>
   <a
-    href="mailto:carlosmarioramos34@gmail.com"
+    href="mailto:soycmramos34@gmail.com"
     target="blank"
-    style="margin:5px;display:inline-block"
+    style="margin:2.5px;display:inline-block"
   >
     <img
       align="center"
-      src="./src/assets/img/icon-gmail-button.svg"
-      alt="carlosmarioramos"
+      src="./src/assets/icon-gmail-button.svg"
+      alt="soycmramos"
     />
   </a>
-</p>
+</div>
 
 <hr>
 
-<p align="center">
+<div align="center">
   <img
     align="center"
-    src="./src/assets/img/icon-html-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
+    src="./src/assets/icon-ibm.svg"
+    alt="soycmramos"
+    style="margin:2.5px;display:inline-block"
   />
   <img
     align="center"
-    src="./src/assets/img/icon-css-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
+    src="./src/assets/icon-js-button.svg"
+    alt="soycmramos"
+    style="margin:2.5px;display:inline-block"
   />
   <img
     align="center"
-    src="./src/assets/img/icon-sass-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
+    src="./src/assets/icon-nodejs-button.svg"
+    alt="soycmramos"
+    style="margin:2.5px;display:inline-block"
   />
   <img
     align="center"
-    src="./src/assets/img/icon-js-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
+    src="./src/assets/icon-react-button.svg"
+    alt="soycmramos"
+    style="margin:2.5px;display:inline-block"
   />
-  <img
-    align="center"
-    src="./src/assets/img/icon-nodejs-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
-  />
-  <img
-    align="center"
-    src="./src/assets/img/icon-react-button.svg"
-    alt="carlosmarioramos"
-    style="margin:5px;display:inline-block"
-  />
-</p>
+</div>
 
 <p>
-  Tecnólogo en Análisis y Desarrollo de Sistemas de Información. 👨🏻‍💼 Apasionado por el aprendizaje de nuevas tecnologías de desarrollo de software y TI en general. Cuando no estoy programando, estoy navegando por la web consultando las últimas tendencias de la industria y viendo videos de memes. 💻
+  Technologist in Analysis and Development of Information Systems. 👨🏻‍💼 Passionate about learning new software development technologies and IT in general. When I'm not programming, I'm browsing the web checking out the latest industry trends. 💻
 </p>
