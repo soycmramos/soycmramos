@@ -1,11 +1,11 @@
-<p align="center" width="300">
+<div align="center" width="300">
   <img
     alt="Avatar"
     src="./src/assets/avatar.jpg"
     style="border-radius:50%;width:300px;height:300px"
   />
-   <h2 align="center">¡Hey 👋! I'm Carlos Ramos</h2>
-</p>
+   <h1 align="center">¡Hey 👋! I'm Carlos Ramos</h1>
+</div>
 
 <p align="center">
   <strong>
