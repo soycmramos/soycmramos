@@ -2,7 +2,7 @@
   <img
     alt="Avatar"
     src="./src/assets/avatar.jpg"
-    style="border-radius:50%;width:300px"
+    style="border-radius:50%;width:300px;height:300px"
   />
    <h2 align="center">¡Hey 👋! I'm Carlos Ramos</h2>
 </p>
@@ -88,6 +88,6 @@
   />
 </div>
 
-<p>
+<p align="center">
   Technologist in Analysis and Development of Information Systems. 👨🏻‍💼 Passionate about learning new software development technologies and IT in general. When I'm not programming, I'm browsing the web checking out the latest industry trends. 💻
 </p>
