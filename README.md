@@ -47,7 +47,7 @@
     />
   </a>
   <a
-    href="mailto:soycmramos34@gmail.com"
+    href="mailto:soycmramos@gmail.com"
     target="blank"
     style="margin:2.5px;display:inline-block"
   >
